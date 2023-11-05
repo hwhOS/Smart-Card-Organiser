@@ -2,7 +2,8 @@
 
 The Smart Card Organizer is a custom-built, automated system for managing and dispensing cards. Controlled through an iOS application, this project integrates with an ESP32 microcontroller and a combination of stepper and servo motors to handle card storage and retrieval. The modular design allows for customization to accommodate different card sizes/numbers and stepper motors.
 
-[![Watch the demo](https://dropovercl.s3.amazonaws.com/edd1d4ff-997c-40c4-b82a-880e96c97f6f/73f2be16-75b5-410e-ae67-051b01af004c/ab3b50ba-c7d0-4767-b9ea-775560700869.jpg)](https://drive.google.com/file/d/1ij-SFkKw6bYUhhGNDE27DTrZ7SnRrTU6/view?usp=drive_link)
+## Watch the demo
+[![Watch the demo](https://dropovercl.s3.amazonaws.com/788c3697-18a4-419a-a261-367eb79965e3/6454121c-67d5-4431-9e51-5877a0a7da7c/d1ba5ffc-214c-475d-a2b5-11c2a061eb09.jpg)](https://drive.google.com/file/d/1ij-SFkKw6bYUhhGNDE27DTrZ7SnRrTU6/view?usp=drive_link)
 
 ## Hardware Components
 
@@ -46,7 +47,7 @@ This project is currently a personal endeavor. While contributions are not activ
 
 ## License
 
-This project is open-sourced under the MIT license. For more information, see [LICENSE.md](LICENSE.md).
+This project is open-sourced under the MIT license. For more information, see [LICENSE](LICENSE).
 
 ## Acknowledgements
 
