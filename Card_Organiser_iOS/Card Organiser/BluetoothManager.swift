@@ -7,7 +7,7 @@ class BluetoothManager: NSObject, ObservableObject, CBCentralManagerDelegate, CB
     var peripheral: CBPeripheral!
     
     @Published var isConnected: Bool = false  // property to hold the connection status
-    @Published var cardSlots: [String] = Array(repeating: "Empty", count: 20)
+    @Published var cardSlots: [String] = Array(repeating: "Empty", count: 20) // init card slots
 
     override init() {
         super.init()
